@@ -5,8 +5,8 @@
       "image_name": "immagine_etrusca_1.jpg",
       "prefab_name": "capanna.sito_a",
       "type": "3dmodel",
-      "local_position": { "x": 0.0, "y": 0.0, "z": 0.3 },
-      "local_rotation": { "x": 0.0, "y": 180.0, "z": 0.0 }
+      "local_position": { "x": 2.0, "y": 0.0, "z": 0.0 },
+      "local_rotation": { "x": 0.0, "y": 0.0, "z": 0.0 }
     },
     {
       "image_name": "budino.jpg",
