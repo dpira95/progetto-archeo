@@ -1,12 +1,12 @@
 {
-  "site_id": "sito_A",
+  "site_id": "sito_B",
   "items": [
     {
-      "image_name": "immagine_etrusca_1.jpg",
+      "image_name": "budino.jpg",
       "prefab_name": "budino",
       "type": "3dmodel",
       "local_position": { "x": 0.0, "y": 0.0, "z": 0.3 },
-      "local_rotation": { "x": 0.0, "y": 180.0, "z": 0.0 }
+      "local_rotation": { "x": -90.0, "y": 180.0, "z": 0.0 }
     }
   ]
 }
