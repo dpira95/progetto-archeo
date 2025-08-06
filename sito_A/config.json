@@ -7,13 +7,6 @@
       "type": "3dmodel",
       "local_position": { "x": 2.0, "y": 0.0, "z": 0.0 },
       "local_rotation": { "x": 0.0, "y": 0.0, "z": 0.0 }
-    },
-    {
-      "image_name": "budino.jpg",
-      "prefab_name": "focolare.bundle",
-      "type": "3dmodel",
-      "local_position": { "x": 0.2, "y": 0.0, "z": 0.5 },
-      "local_rotation": { "x": 0.0, "y": 90.0, "z": 0.0 }
     }
   ]
 }
