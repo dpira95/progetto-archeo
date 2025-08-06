@@ -3,17 +3,10 @@
   "items": [
     {
       "image_name": "immagine_etrusca_1.jpg",
-      "prefab_name": "capanna.bundle",
+      "prefab_name": "budino",
       "type": "3dmodel",
       "local_position": { "x": 0.0, "y": 0.0, "z": 0.3 },
       "local_rotation": { "x": 0.0, "y": 180.0, "z": 0.0 }
-    },
-    {
-      "image_name": "immagine_etrusca_2.jpg",
-      "prefab_name": "focolare.bundle",
-      "type": "3dmodel",
-      "local_position": { "x": 0.2, "y": 0.0, "z": 0.5 },
-      "local_rotation": { "x": 0.0, "y": 90.0, "z": 0.0 }
     }
   ]
 }
