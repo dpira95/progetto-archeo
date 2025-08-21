@@ -5,7 +5,7 @@
       "image_name": "nuraghe.jpg",
       "prefab_name": "nuraghe.sito_a",
       "type": "3dmodel",
-      "local_position": { "x": 5.0, "y": 1.0, "z": 38.0 },
+      "local_position": { "x": 5.0, "y": 0.0, "z": 38.0 },
       "local_rotation": { "x": -90.0, "y": 180.0, "z": 0.0 }
     }
   ]
