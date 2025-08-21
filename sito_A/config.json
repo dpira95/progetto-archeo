@@ -3,10 +3,10 @@
   "items": [
     {
       "image_name": "immagine_etrusca_1.jpg",
-      "prefab_name": "capanna.sito_a",
+      "prefab_name": "nuraghe.sito_a",
       "type": "3dmodel",
-      "local_position": { "x": 0.0, "y": 1.0, "z": 0.0 },
-      "local_rotation": { "x": -90.0, "y": 180.0, "z": 0.0 }
+      "local_position": { "x": 0.0, "y": 1.0, "z": 38.0 },
+      "local_rotation": { "x": 0.0, "y": 180.0, "z": 0.0 }
     }
   ]
 }
